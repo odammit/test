@@ -1,2 +1,3 @@
 # test
-testing
+Removed text
+Change1
